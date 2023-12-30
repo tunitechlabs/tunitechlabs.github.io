@@ -73,7 +73,8 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://learnests.com/images/online-course/devops.png
+# avatar: http://learnests.com/images/online-course/devops.png
+avatar: /assets/img/devops.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true

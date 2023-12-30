@@ -23,4 +23,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 console.log('Hello DevOps Team !')
 ```
 ## DevOps image
-<!-- ![DevOps image](http://learnests.com/images/online-course/devops_banner.jpg) -->
+<!-- ![DevOps image](/assets/img/sample/mockup.png){: w="700" h="400" } -->
+![DevOps image](/assets/img/devops_banner.jpg)
