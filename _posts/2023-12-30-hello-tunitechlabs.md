@@ -4,6 +4,11 @@ title: Hello TuniTechLabs !
 date: 2023-12-30 23:30:00 +0100
 categories: [techlab, tutorial]
 tags: [tech,devops,labs,tozeur]     # TAG names should always be lowercase
+
+image:
+  path: /assets/img/devops_banner.png
+  alt: DevOps
+
 ---
 
 # Welcome
