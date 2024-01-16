@@ -30,3 +30,8 @@ console.log('Hello DevOps Team !')
 ## DevOps image
 <!-- ![DevOps image](/assets/img/sample/mockup.png){: w="700" h="400" } -->
 ![DevOps image](/assets/img/devops_banner.jpg)
+
+## Docs
+https://jekyllrb.com/docs/liquid/
+
+https://chirpy.cotes.page/posts/write-a-new-post/
