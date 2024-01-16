@@ -4,6 +4,7 @@ title: Bienvenue sur Tunitechlabs !
 date: 2024-01-16 20:30:00 +0100
 categories: [techlab, tutorial]
 tags: [tech, devops, labs] # TAG names should always be lowercase
+author: wahid_hamdi
 
 image:
   path: /assets/img/bienvenue.png
