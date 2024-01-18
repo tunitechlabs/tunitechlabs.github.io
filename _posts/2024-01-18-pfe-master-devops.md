@@ -1,5 +1,5 @@
 ---
-title: Propositions sujets PFE - Master DevOps & Cloud Computing 
+title: Propositions sujets PFE - Master DevOps & Cloud Computing - ISET Tozeur
 # date: YYYY-MM-DD HH:MM:SS +/-TTTT
 date: 2024-01-18 13:30:00 +0100
 categories: [devops, pfe]
